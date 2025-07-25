@@ -1,1 +1,1 @@
-# odin_recipes
+For this project I will be creating a simple recipe website. I will be exhibiting the HTML skills I have learned so far, including different elements and lists.
